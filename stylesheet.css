@@ -1,0 +1,26 @@
+.title {
+  color: #02ccba;
+}
+
+
+
+.hi , h2 {
+  font-size: 30px;
+  color: red;
+}
+
+.h3 {
+ background-color: yellow;
+ color: red;
+}
+
+.div {
+ font-size: 40px;
+}
+
+.li {
+  list-style: none;
+}
+  <li>かに道楽</li>
+  <li>一徹</li>
+</ul>
